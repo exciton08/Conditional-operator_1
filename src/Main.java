@@ -129,7 +129,7 @@ public class Main {
             } else if (three > one) {
                 System.out.println("Максимальное число - " + three);
             } else {
-                System.out.println("Все 3 числа равны");
+                System.out.println("Все  3 числа равны");
             }
 
         }
